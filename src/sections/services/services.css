@@ -1,0 +1,82 @@
+.services__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 4rem;
+}
+
+#services h2,
+#services p,
+.tools h3 {
+  color: var(--color-black);
+}
+
+.card.service {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.service__icon {
+  background: var(--color-primary);
+  padding: 0.6rem;
+  border-radius: var(--border-radius-3);
+  font-size: 1.5rem;
+  color: var(--color-white);
+  transition: var(--transition);
+}
+
+.service:hover .service__icon {
+  background: var(--color-light);
+  color: var(--color-primary);
+}
+
+.service h4 {
+  margin-bottom: 0.7rem;
+}
+
+/* STYLING SKILLS SECTION */
+#skills {
+  margin-top: 5rem;
+}
+#skills h2 {
+  text-align: center;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.skill-card p {
+  text-align: center;
+}
+.skill-icon {
+  padding: 0.6rem;
+  font-size: 3rem;
+  transition: var(--transition);
+}
+
+/* MEDIA QUERIES (tablets) */
+@media screen and (max-width: 1024px) {
+  .services__container {
+    gap: 1.5rem;
+  }
+}
+
+/* MEDIA QUERIES (phone) */
+@media screen and (max-width: 600px) {
+  .services__container {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+  .card.service {
+    gap: 1.2rem;
+  }
+  .skill-icon {
+    font-size: 2.5rem;
+  }
+}
