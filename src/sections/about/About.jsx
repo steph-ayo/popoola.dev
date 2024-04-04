@@ -1,8 +1,6 @@
 import { MdOutlineFileDownload } from "react-icons/md";
-import AboutImage from "../../assets/IMG_20220327_230115_893.jpg";
+import AboutImage from "../../assets/header.jpg";
 import CV from "../../assets/cv.pdf";
-import Card from "../../components/Card";
-import data from "./data";
 import "./about.css";
 
 const About = () => {
@@ -16,27 +14,18 @@ const About = () => {
         </div>
         <div className="about__right">
           <h2>About Me</h2>
-          {/* <div className="about__cards">
-            {data.map((item) => (
-              <Card key={item.id} className="about__card">
-                <span className="about__card-icon">{item.icon}</span>
-                <h5>{item.title}</h5>
-                <small>{item.desc}</small>
-              </Card>
-            ))}
-          </div> */}
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora
-            amet enim pariatur fuga veritatis ea suscipit porro neque
-            consequatur minima nam mollitia corrupti id ipsam eligendi odit,
-            possimus at nemo.
+            As an experienced front-end engineer with over 22 months of
+            expertise, I excel in initiating and leading successful projects,
+            thriving in dynamic, fast-paced environments. Whether collaborating
+            within a team or working independently, I demonstrate exceptional
+            adaptability and proficiency. My enthusiasm for learning drives me
+            to craft impactful solutions that drive progress and deliver
+            tangible outcomes.I am committed to continuous growth and
+            development in the ever-evolving technological landscape, ready to
+            contribute effectively to any organization.
           </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            iusto aperiam minus dicta repellendus? Dignissimos nostrum, facilis
-            est neque inventore quasi. Culpa, adipisci quod commodi quas qui vel
-            totam iure?
-          </p>
+
           <a href={CV} download className="btn primary">
             Download CV <MdOutlineFileDownload />
           </a>

@@ -12,7 +12,7 @@ const data = [
     id: 2,
     icon: <MdOutlineWeb />,
     title: "Web design",
-    desc: "The security of your business/product is taken seriously right from the start of the project. I will make sure your website/app is secure from attacks.",
+    desc: "Crafting visually appealing, user-friendly web experiences that resonate with your brand identity and engage your audience effectively.",
   },
 ];
 
