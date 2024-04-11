@@ -24,9 +24,19 @@ const About = () => {
             tangible outcomes.I am committed to continuous growth and
             development in the ever-evolving technological landscape, ready to
             contribute effectively to any organization.
+            <br />
+            When not coding, I am also a singer and a STEM tutor in the
+            academia.
           </p>
 
-          <a href={CV} download className="btn primary">
+          {/* <a href={CV} download className="btn primary">
+            Download CV <MdOutlineFileDownload />
+          </a> */}
+          <a
+            href="https://www.linkedin.com/in/stephen-popoola-b90990233/"
+            download
+            className="btn primary"
+          >
             Download CV <MdOutlineFileDownload />
           </a>
         </div>
