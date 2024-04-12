@@ -1,6 +1,6 @@
 import Image1 from "../../assets/project1.png";
 import Image2 from "../../assets/project2.png";
-import Image3 from "../../assets/project3.jpg";
+import Image3 from "../../assets/project3.png";
 import Image4 from "../../assets/project4.png";
 import Image5 from "../../assets/project5.png";
 import Image6 from "../../assets/project6.png";
@@ -25,10 +25,10 @@ const data = [
   {
     id: 3,
     image: Image3,
-    title: "Project Title Three (Frontend)",
-    desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    title: "ShopCart ecommerce website",
+    desc: "CURRENTLY BUILDING",
+    demo: "/",
+    github: "https://github.com/steph-ayo/React-e-commerce-webapp",
   },
   {
     id: 4,
@@ -50,9 +50,10 @@ const data = [
     id: 6,
     image: Image6,
     title: "Face recognition brain webapp",
-    desc: "Face Recognition Brain WebApp enhances security and convenience by accurately identifying faces through cutting-edge technology, enabling seamless access control and personalized user experiences in various applications",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    // desc: "Face Recognition Brain WebApp enhances security and convenience by accurately identifying faces through cutting-edge technology, enabling seamless access control and personalized user experiences in various applications"
+    desc: "CURRENTLY BUILDING",
+    demo: "/",
+    github: "https://github.com/steph-ayo/face-recognition-brain",
   },
 ];
 
