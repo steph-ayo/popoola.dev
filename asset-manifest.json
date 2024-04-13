@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/popoola.dev/static/css/main.f96fe880.css",
+    "main.css": "/popoola.dev/static/css/main.6601b4ab.css",
     "main.js": "/popoola.dev/static/js/main.b27258e9.js",
     "static/js/1927.ea933b87.chunk.js": "/popoola.dev/static/js/1927.ea933b87.chunk.js",
     "static/js/7590.bf8bf1f7.chunk.js": "/popoola.dev/static/js/7590.bf8bf1f7.chunk.js",
@@ -80,7 +80,7 @@
     "static/media/project3.png": "/popoola.dev/static/media/project3.3ffcace6e436dae808ee.png",
     "static/media/faviconsp.png": "/popoola.dev/static/media/faviconsp.840f80714dc1c6531e53.png",
     "index.html": "/popoola.dev/index.html",
-    "main.f96fe880.css.map": "/popoola.dev/static/css/main.f96fe880.css.map",
+    "main.6601b4ab.css.map": "/popoola.dev/static/css/main.6601b4ab.css.map",
     "main.b27258e9.js.map": "/popoola.dev/static/js/main.b27258e9.js.map",
     "1927.ea933b87.chunk.js.map": "/popoola.dev/static/js/1927.ea933b87.chunk.js.map",
     "7590.bf8bf1f7.chunk.js.map": "/popoola.dev/static/js/7590.bf8bf1f7.chunk.js.map",
@@ -152,7 +152,7 @@
     "4290.95140fe7.chunk.js.map": "/popoola.dev/static/js/4290.95140fe7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f96fe880.css",
+    "static/css/main.6601b4ab.css",
     "static/js/main.b27258e9.js"
   ]
 }
