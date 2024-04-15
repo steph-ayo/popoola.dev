@@ -55,7 +55,21 @@
   gap: 1rem;
 }
 
-.portfolio__project:hover .btn.sm {
+.portfolio__project:hover .btn.sm.demo {
+  border-color: var(--color-white);
+}
+
+.btn.sm:hover {
+  border-color: var(--color-white);
+}
+
+.btn.sm.primary:hover {
+  background: transparent;
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+/* .portfolio__project:hover .btn.sm {
   border-color: var(--color-white);
 }
 
@@ -63,7 +77,7 @@
   background: transparent;
   color: var(--color-primary);
   border-color: var(--color-primary);
-}
+} */
 
 /* MEDIA QUERIES (for tablets) */
 @media screen and (max-width: 1024px) {

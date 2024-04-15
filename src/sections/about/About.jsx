@@ -15,28 +15,26 @@ const About = () => {
         <div className="about__right">
           <h2>About Me</h2>
           <p>
-            As an experienced front-end engineer with over 22 months of
+            As an experienced front-end engineer with about 2 years of
             expertise, I excel in initiating and leading successful projects,
-            thriving in dynamic, fast-paced environments. Whether collaborating
-            within a team or working independently, I demonstrate exceptional
-            adaptability and proficiency. My enthusiasm for learning drives me
-            to craft impactful solutions that drive progress and deliver
-            tangible outcomes.I am committed to continuous growth and
-            development in the ever-evolving technological landscape, ready to
-            contribute effectively to any organization.
+            thriving in dynamic, fast-paced environments.
+            <br />
+            <br />
+            Whether collaborating within a team or working independently, I
+            demonstrate exceptional adaptability and proficiency. My enthusiasm
+            for learning drives me to craft impactful solutions that drive
+            progress and deliver tangible outcomes.
+            <br />
+            <br /> I am committed to continuous growth and development in the
+            ever-evolving technological landscape, ready to contribute
+            effectively to any organization.
+            <br />
             <br />
             When not coding, I am also a singer and a STEM tutor in the
             academia.
           </p>
 
-          {/* <a href={CV} download className="btn primary">
-            Download CV <MdOutlineFileDownload />
-          </a> */}
-          <a
-            href="https://www.linkedin.com/in/stephen-popoola-b90990233/"
-            download
-            className="btn primary"
-          >
+          <a href={CV} download className="btn primary">
             Download CV <MdOutlineFileDownload />
           </a>
         </div>

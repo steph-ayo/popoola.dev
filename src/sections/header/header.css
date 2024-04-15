@@ -18,9 +18,9 @@ header {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%; /* Ensure particles cover the entire header */
-  height: 100%; /* Ensure particles cover the entire header */
-  z-index: -1; /* Place particles behind other content */
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
 .header__profile {
@@ -43,7 +43,7 @@ header {
 }
 
 .header__container .firstname {
-  color: var(--color-primary);
+  color: var(--color-header);
 }
 
 .header__container h3 {
@@ -54,7 +54,7 @@ header {
   margin: 0.6rem 0 2rem;
 }
 .typewriter-text {
-  color: var(--color-primary);
+  color: var(--color-header);
 }
 
 .header__cta {
@@ -83,7 +83,7 @@ header {
 }
 
 .header__socials a:hover {
-  background: var(--color-primary);
+  background: var(--color-header);
   color: var(--color-white);
   transform: translateX(-0.5rem);
 }
