@@ -27,8 +27,8 @@ const data = [
     image: Image3,
     title: "ShopCart ecommerce website",
     desc: "CURRENTLY BUILDING",
-    demo: "/",
-    github: "https://github.com/steph-ayo/React-e-commerce-webapp",
+    demo: "https://661eeae503f27d85de1e06b5--serene-dieffenbachia-6c4116.netlify.app/",
+    github: "https://github.com/steph-ayo/ShopCart",
   },
   {
     id: 4,
