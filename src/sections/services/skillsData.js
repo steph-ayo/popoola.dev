@@ -6,6 +6,7 @@ import {
   faGitAlt,
   faFigma,
   faGithub,
+  faSass,
 } from "@fortawesome/free-brands-svg-icons";
 
 const skillsData = [
@@ -46,13 +47,20 @@ const skillsData = [
   },
   {
     id: "6",
+    icon: faSass,
+    title: "SASS",
+    className: "git-icon bounce",
+    color: "#cd6799",
+  },
+  {
+    id: "7",
     icon: faGitAlt,
     title: "Git",
     className: "git-icon bounce",
     color: "#ec4646",
   },
   {
-    id: "7",
+    id: "8",
     icon: faFigma,
     title: "Figma",
     className: "figma-icon bounce",
