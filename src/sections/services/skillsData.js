@@ -1,70 +1,68 @@
-import {
-  faHtml5,
-  faCss3Alt,
-  faJs,
-  faReact,
-  faGitAlt,
-  faFigma,
-  faGithub,
-  faSass,
-} from "@fortawesome/free-brands-svg-icons";
+import htmlLogo from "../../assets/html-logo.png";
+import cssLogo from "../../assets/css-logo.png";
+import jsLogo from "../../assets/Javascript-logo.png";
+import reactLogo from "../../assets/react-logo.png";
+import tailwindLogo from "../../assets/tailwindcss-logo.png";
+import sassLogo from "../../assets/SASS-logo.png";
+import githubLogo from "../../assets/github-logo.png";
+import gitLogo from "../../assets/git-logo.png";
+import figmaLogo from "../../assets/figma-logo.png";
 
 const skillsData = [
   {
     id: "1",
-    icon: faHtml5,
+    image: htmlLogo,
     title: "HTML5",
-    className: "html5-icon",
-    color: "#ff811a",
+    className: "HTML5",
   },
   {
     id: "2",
-    icon: faCss3Alt,
+    image: cssLogo,
     title: "CSS3",
-    className: "css3-icon bounce",
-    color: "#2b50a6",
+    className: "css3",
   },
   {
     id: "3",
-    icon: faJs,
+    image: jsLogo,
     title: "Javascript",
-    className: "js-icon bounce",
-    color: "#f9d13e",
+    className: "Javascript",
   },
   {
     id: "4",
-    icon: faReact,
+    image: reactLogo,
     title: "React",
-    className: "react-icon bounce",
-    color: "#4da6ea",
+    className: "React",
   },
   {
     id: "5",
-    icon: faGithub,
-    title: "Github",
-    className: "git-icon bounce",
-    color: "#0d0d0d",
+    image: tailwindLogo,
+    title: "Tailwindcss",
+    className: "Tailwindcss",
   },
+
   {
     id: "6",
-    icon: faSass,
+    image: sassLogo,
     title: "SASS",
-    className: "git-icon bounce",
-    color: "#cd6799",
+    className: "SASS",
   },
   {
     id: "7",
-    icon: faGitAlt,
-    title: "Git",
-    className: "git-icon bounce",
-    color: "#ec4646",
+    image: githubLogo,
+    title: "Github",
+    className: "Github",
   },
   {
     id: "8",
-    icon: faFigma,
+    image: gitLogo,
+    title: "Git",
+    className: "Git",
+  },
+  {
+    id: "9",
+    image: figmaLogo,
     title: "Figma",
-    className: "figma-icon bounce",
-    color: "#d172fd",
+    className: "Figma",
   },
 ];
 

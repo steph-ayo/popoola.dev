@@ -1,7 +1,6 @@
 import data from "./data";
 import Card from "../../components/Card";
 import "./services.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import skillsData from "./skillsData";
 
 const Services = () => {
@@ -27,11 +26,11 @@ const Services = () => {
           {skillsData.map((skill) => (
             <div className="skill-card">
               <div className="skill-icon">
-                <FontAwesomeIcon
+                <img
+                  src={skill.image}
+                  alt={skill.title}
                   key={skill.id}
-                  icon={skill.icon}
                   className={skill.className}
-                  style={{ color: skill.color }}
                 />
               </div>
               <p>{skill.title}</p>
