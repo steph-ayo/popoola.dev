@@ -27,7 +27,7 @@ const data = [
     image: Image3,
     title: "ShopCart ecommerce website",
     desc: "CURRENTLY BUILDING",
-    demo: "https://661eeae503f27d85de1e06b5--serene-dieffenbachia-6c4116.netlify.app/",
+    demo: "shop-cart-five-ashen.vercel.app",
     github: "https://github.com/steph-ayo/ShopCart",
   },
   {
@@ -48,6 +48,14 @@ const data = [
   },
   {
     id: 6,
+    image: Image6,
+    title: "Disney Website Clone",
+    desc: "A clone of the official disney website that integrates with the TMDB API endpoint to fetch data on trending movies using React, Tailwindcss and vite as a build tool",
+    demo: "disney-clone-blond-one.vercel.app",
+    github: "https://github.com/steph-ayo/Disney-clone",
+  },
+  {
+    id: 7,
     image: Image6,
     title: "Face recognition brain webapp",
     // desc: "Face Recognition Brain WebApp enhances security and convenience by accurately identifying faces through cutting-edge technology, enabling seamless access control and personalized user experiences in various applications"
