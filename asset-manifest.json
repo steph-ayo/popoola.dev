@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/popoola.dev/static/css/main.be4c028d.css",
-    "main.js": "/popoola.dev/static/js/main.2630cc71.js",
+    "main.css": "/popoola.dev/static/css/main.5c1f0198.css",
+    "main.js": "/popoola.dev/static/js/main.39ed1ac5.js",
     "static/js/1927.ea933b87.chunk.js": "/popoola.dev/static/js/1927.ea933b87.chunk.js",
     "static/js/7590.bf8bf1f7.chunk.js": "/popoola.dev/static/js/7590.bf8bf1f7.chunk.js",
     "static/js/6725.69f582a6.chunk.js": "/popoola.dev/static/js/6725.69f582a6.chunk.js",
@@ -70,18 +70,19 @@
     "static/js/4265.9d57dfd2.chunk.js": "/popoola.dev/static/js/4265.9d57dfd2.chunk.js",
     "static/js/4494.cafc7a13.chunk.js": "/popoola.dev/static/js/4494.cafc7a13.chunk.js",
     "static/js/4290.95140fe7.chunk.js": "/popoola.dev/static/js/4290.95140fe7.chunk.js",
-    "static/media/project6.png": "/popoola.dev/static/media/project6.c49b68d37adc5d20f82c.png",
+    "static/media/project6.png": "/popoola.dev/static/media/project6.35723a854cde833c1d0f.png",
+    "static/media/project7.png": "/popoola.dev/static/media/project7.c49b68d37adc5d20f82c.png",
     "static/media/header.jpg": "/popoola.dev/static/media/header.922912eddd44bfd5c2d1.jpg",
     "static/media/cv.pdf": "/popoola.dev/static/media/cv.48d38da7efa8c87f5d21.pdf",
     "static/media/project2.png": "/popoola.dev/static/media/project2.f7d2c84a46afa47ce821.png",
-    "static/media/project1.png": "/popoola.dev/static/media/project1.3a9baab5d57a23f2297d.png",
+    "static/media/project1.png": "/popoola.dev/static/media/project1.9020786139adf924e57f.png",
     "static/media/project4.png": "/popoola.dev/static/media/project4.db4770e5327f1e6a3a83.png",
     "static/media/project5.png": "/popoola.dev/static/media/project5.2f0d78a77fe8dc96b6dc.png",
     "static/media/project3.png": "/popoola.dev/static/media/project3.3ffcace6e436dae808ee.png",
     "static/media/faviconsp.png": "/popoola.dev/static/media/faviconsp.840f80714dc1c6531e53.png",
     "index.html": "/popoola.dev/index.html",
-    "main.be4c028d.css.map": "/popoola.dev/static/css/main.be4c028d.css.map",
-    "main.2630cc71.js.map": "/popoola.dev/static/js/main.2630cc71.js.map",
+    "main.5c1f0198.css.map": "/popoola.dev/static/css/main.5c1f0198.css.map",
+    "main.39ed1ac5.js.map": "/popoola.dev/static/js/main.39ed1ac5.js.map",
     "1927.ea933b87.chunk.js.map": "/popoola.dev/static/js/1927.ea933b87.chunk.js.map",
     "7590.bf8bf1f7.chunk.js.map": "/popoola.dev/static/js/7590.bf8bf1f7.chunk.js.map",
     "6725.69f582a6.chunk.js.map": "/popoola.dev/static/js/6725.69f582a6.chunk.js.map",
@@ -152,7 +153,7 @@
     "4290.95140fe7.chunk.js.map": "/popoola.dev/static/js/4290.95140fe7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be4c028d.css",
-    "static/js/main.2630cc71.js"
+    "static/css/main.5c1f0198.css",
+    "static/js/main.39ed1ac5.js"
   ]
 }
