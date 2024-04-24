@@ -4,6 +4,7 @@ import Image3 from "../../assets/project3.png";
 import Image4 from "../../assets/project4.png";
 import Image5 from "../../assets/project5.png";
 import Image6 from "../../assets/project6.png";
+import Image7 from "../../assets/project7.png";
 
 const data = [
   {
@@ -51,12 +52,12 @@ const data = [
     image: Image6,
     title: "Disney Website Clone",
     desc: "A clone of the official disney website that integrates with the TMDB API endpoint to fetch data on trending movies using React, Tailwindcss and vite as a build tool",
-    demo: "disney-clone-blond-one.vercel.app",
+    demo: "https://disney-clone-blond-one.vercel.app/",
     github: "https://github.com/steph-ayo/Disney-clone",
   },
   {
     id: 7,
-    image: Image6,
+    image: Image7,
     title: "Face recognition brain webapp",
     // desc: "Face Recognition Brain WebApp enhances security and convenience by accurately identifying faces through cutting-edge technology, enabling seamless access control and personalized user experiences in various applications"
     desc: "CURRENTLY BUILDING",
