@@ -28,7 +28,7 @@ const data = [
     image: Image3,
     title: "ShopCart ecommerce website",
     desc: "CURRENTLY BUILDING",
-    demo: "shop-cart-five-ashen.vercel.app",
+    demo: "https://shop-cart-five-ashen.vercel.app/",
     github: "https://github.com/steph-ayo/ShopCart",
   },
   {

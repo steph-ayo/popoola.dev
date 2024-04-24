@@ -56,11 +56,11 @@
 }
 
 .portfolio__project:hover .btn.sm.demo {
-  border-color: var(--color-white);
+  background: var(--color-white);
 }
 
-.btn.sm:hover {
-  border-color: var(--color-white);
+.btn.sm.demo:hover {
+  /* border-color: var(--color-primary); */
 }
 
 .btn.sm.primary:hover {
