@@ -1,10 +1,4 @@
 /* STYLING OF PORFOLIO CATEGORIES */
-.portfolio__categories {
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-}
 
 .btn.cat__btn {
   text-transform: capitalize;
@@ -35,6 +29,10 @@
   }
 }
 
+.portfolio__project {
+  padding: 0.7rem 0.7rem 1.5rem 0.7rem;
+}
+
 .portfolio__project-image {
   width: 100%;
   height: fit-content;
@@ -46,8 +44,21 @@
   overflow: hidden;
 }
 
-.portfolio__project p {
-  margin: 0.5rem 0 2rem;
+/* Styling of Portfolio projects status */
+.portfolio__project-status {
+  display: flex;
+  justify-content: end;
+  gap: 0.3rem;
+  margin-bottom: 1rem;
+}
+.ping {
+  border-radius: 50%;
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.portfolio__project-desc {
+  margin: 0.5rem 0 1rem;
 }
 
 .portfolio__project-cta {
@@ -100,5 +111,11 @@
   .portfolio__projects {
     grid-template-columns: 1fr;
     gap: 2rem;
+  }
+  .portfolio__project-desc {
+    text-align: start;
+  }
+  .portfolio__project-status {
+    text-align: end;
   }
 }

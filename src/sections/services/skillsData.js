@@ -2,6 +2,7 @@ import htmlLogo from "../../assets/html-logo.png";
 import cssLogo from "../../assets/css-logo.png";
 import jsLogo from "../../assets/Javascript-logo.png";
 import reactLogo from "../../assets/react-logo.png";
+import viteLogo from "../../assets/vite-logo.png";
 import tailwindLogo from "../../assets/tailwindcss-logo.png";
 import sassLogo from "../../assets/SASS-logo.png";
 import githubLogo from "../../assets/github-logo.png";
@@ -30,36 +31,42 @@ const skillsData = [
   {
     id: "4",
     image: reactLogo,
-    title: "React",
+    title: "React JS",
     className: "React",
   },
   {
     id: "5",
+    image: viteLogo,
+    title: "Vite",
+    className: "Vite",
+  },
+  {
+    id: "6",
     image: tailwindLogo,
-    title: "Tailwindcss",
+    title: "Tailwind CSS",
     className: "Tailwindcss",
   },
 
   {
-    id: "6",
+    id: "7",
     image: sassLogo,
     title: "SASS",
     className: "SASS",
   },
   {
-    id: "7",
+    id: "8",
     image: githubLogo,
     title: "Github",
     className: "Github",
   },
   {
-    id: "8",
+    id: "9",
     image: gitLogo,
     title: "Git",
     className: "Git",
   },
   {
-    id: "9",
+    id: "10",
     image: figmaLogo,
     title: "Figma",
     className: "Figma",

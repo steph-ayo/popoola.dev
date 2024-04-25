@@ -2,6 +2,10 @@
   padding: 5rem 0;
 }
 
+#contact p {
+  font-size: 1rem;
+}
+
 .contact__container {
   width: fit-content;
   display: flex;
@@ -33,4 +37,15 @@
   .contact__container {
     gap: 1.5rem;
   }
+  /* .contact__container a {
+    width: 3rem;
+    aspect-ratio: 1/1;
+    color: white;
+    background: var(--color-primary);
+    display: grid;
+    place-items: center;
+    font-size: 1.5rem;
+    border: 2px solid transparent;
+    border-radius: var(--border-radius-1);
+  } */
 }
