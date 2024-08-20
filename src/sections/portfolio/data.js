@@ -30,7 +30,7 @@ const data = [
     status: "completed",
     color: "#008000",
     desc: "Everything music (Product & services showcase)",
-    demo: "https://etim-three.vercel.app/",
+    demo: "https://etimvocalenterprises.vercel.app/",
     github: "https://github.com/steph-ayo/Etim",
   },
   {
