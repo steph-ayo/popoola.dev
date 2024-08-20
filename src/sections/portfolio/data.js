@@ -35,16 +35,6 @@ const data = [
   },
   {
     id: 3,
-    image: Image2,
-    title: "Cinemate",
-    status: "completed",
-    color: "#008000",
-    desc: "Streamlined movie webapp simplifying movie searches via API integration for seamless user experience in film discovery.",
-    demo: "https://steph-ayo.github.io/Cinemate/",
-    github: "https://github.com/steph-ayo/Cinemate",
-  },
-  {
-    id: 4,
     image: Image3,
     title: "ShopCart",
     status: "in-progress",
@@ -53,6 +43,17 @@ const data = [
     demo: "https://shop-cart-five-ashen.vercel.app/",
     github: "https://github.com/steph-ayo/ShopCart",
   },
+  {
+    id: 4,
+    image: Image2,
+    title: "Cinemate",
+    status: "completed",
+    color: "#008000",
+    desc: "Streamlined movie webapp simplifying movie searches via API integration for seamless user experience in film discovery.",
+    demo: "https://steph-ayo.github.io/Cinemate/",
+    github: "https://github.com/steph-ayo/Cinemate",
+  },
+
   {
     id: 5,
     image: Image6,
