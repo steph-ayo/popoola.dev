@@ -5,6 +5,7 @@ import Image4 from "../../assets/project4.png";
 import Image5 from "../../assets/project5.png";
 import Image6 from "../../assets/project6.png";
 import Image7 from "../../assets/project7.png";
+import Image8 from "../../assets/project8.png";
 
 // import Image4 from "../../assets/project6.png";
 // import Image5 from "../../assets/project4.png";
@@ -24,6 +25,16 @@ const data = [
   },
   {
     id: 2,
+    image: Image8,
+    title: "Etim Vocal Enterprises",
+    status: "completed",
+    color: "#008000",
+    desc: "Everything music (Product & services showcase)",
+    demo: "https://etim-three.vercel.app/",
+    github: "https://github.com/steph-ayo/Etim",
+  },
+  {
+    id: 3,
     image: Image2,
     title: "Cinemate",
     status: "completed",
@@ -33,7 +44,7 @@ const data = [
     github: "https://github.com/steph-ayo/Cinemate",
   },
   {
-    id: 3,
+    id: 4,
     image: Image3,
     title: "ShopCart",
     status: "in-progress",
@@ -43,7 +54,7 @@ const data = [
     github: "https://github.com/steph-ayo/ShopCart",
   },
   {
-    id: 4,
+    id: 5,
     image: Image6,
     title: "Disney Website Clone",
     status: "completed",
@@ -53,7 +64,7 @@ const data = [
     github: "https://github.com/steph-ayo/Disney-clone",
   },
   {
-    id: 5,
+    id: 6,
     image: Image4,
     title: "Portfolio",
     status: "completed",
@@ -63,7 +74,7 @@ const data = [
     github: "https://github.com/steph-ayo/clients-based-portfolio-website",
   },
   {
-    id: 6,
+    id: 7,
     image: Image5,
     title: "Travel list webapp",
     status: "completed",
@@ -73,7 +84,7 @@ const data = [
     github: "https://github.com/steph-ayo/Travel-list",
   },
   {
-    id: 7,
+    id: 8,
     image: Image7,
     title: "Face recognition brain webapp",
     status: "in-progress",
