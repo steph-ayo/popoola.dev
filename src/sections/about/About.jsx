@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__right">
           <h2>About Me</h2>
           <p>
-            As an experienced front-end engineer with about 2 years of
+            As an experienced front-end engineer with about 3 years of
             expertise, I excel in initiating and leading successful projects,
             thriving in dynamic, fast-paced environments.
             <br />
@@ -30,8 +30,8 @@ const About = () => {
             effectively to any organization.
             <br />
             <br />
-            When not coding, I am also a singer and a STEM tutor in the
-            academia.
+            When not coding, I am also a professional singer, coding and STEM
+            tutor.
           </p>
 
           <a href={CV} download className="btn primary">
